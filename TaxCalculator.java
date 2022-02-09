@@ -1,6 +1,7 @@
 package exercises;
 
 import java.util.Scanner;
+// ADDED TO GITHUB!!
 
 public class TaxCalculator {
 	static double payableTax = 0;
